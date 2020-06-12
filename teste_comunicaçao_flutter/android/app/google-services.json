@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649047679232",
+    "firebase_url": "https://iot-teste2.firebaseio.com",
+    "project_id": "iot-teste2",
+    "storage_bucket": "iot-teste2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649047679232:android:78aef0fe04cb21c89653e5",
+        "android_client_info": {
+          "package_name": "com.example.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649047679232-n750o1g9oghmdsl09g4u3sh1kb61r0ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAetipI9fjz2-vlnLB3sGkrcyw11Bi2ikQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649047679232-n750o1g9oghmdsl09g4u3sh1kb61r0ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
